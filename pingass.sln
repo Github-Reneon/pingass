@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pingass", "pingass.csproj", "{95B64310-C147-4521-B73E-65A96557F5DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95B64310-C147-4521-B73E-65A96557F5DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B64310-C147-4521-B73E-65A96557F5DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B64310-C147-4521-B73E-65A96557F5DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B64310-C147-4521-B73E-65A96557F5DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B678AA04-A146-430B-918F-34621D12538E}
+	EndGlobalSection
+EndGlobal
