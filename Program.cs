@@ -34,9 +34,19 @@ namespace pingass
                 {
                     goto ASK;
                 }
+
+                if (addr == null)
+                {
+                    Console.Title = args[0];
+                }
+                else
+                {
+                    Console.Title = addr;
+                }
+
                 if (args.Length >= 2)
                 {
-                    if (args[1] == "hide")
+                    if (args[1] == "--hide")
                     {
                         var handle = GetConsoleWindow();
                         // Hide window
